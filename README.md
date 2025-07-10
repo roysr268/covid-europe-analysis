@@ -24,14 +24,14 @@ This project explores the spread and impact of COVID-19 across selected European
 
 ## 📁 Project Structure
 
+```
 covid-europe-analysis/
-│
 ├── covid_analysis.ipynb # Main notebook with code and visualizations
 ├── data/ # Folder for datasets or data source info
 │ └── README.md # Link to dataset source
-├── images/ # Saved visualizations
+├── images/ # Saved visualizations (optional)
 └── README.md # Project documentation (this file)
-
+```
 
 ---
 
@@ -48,3 +48,19 @@ covid-europe-analysis/
 1. Clone the repository  
    ```bash
    git clone https://github.com/roysr268/covid-europe-analysis.git
+
+2. Open the notebook in Databricks or Jupyter Notebook
+
+3. Run the notebook cells to explore the data and generate the visualizations
+
+---
+
+## 📚 Future Enhancements
+
+- Add deaths per million and cases per million metrics
+
+- Normalize data by population for fair comparison
+
+- Create an interactive dashboard with Streamlit or Plotly
+
+---
