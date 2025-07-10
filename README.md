@@ -29,8 +29,8 @@ covid-europe-analysis/
 ├── covid_analysis.ipynb # Main notebook with code and visualizations
 ├── data/ # Folder for datasets or data source info
 │ └── README.md # Link to dataset source
-├── images/ # Saved visualizations (optional)
-└── README.md # Project documentation (this file)
+├── images/ # Saved visualizations
+└── README.md # Project documentation
 ```
 
 ---
